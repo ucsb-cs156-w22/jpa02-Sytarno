@@ -2,7 +2,7 @@
 
 Repo: https://github.com/ucsb-cs156-w22/jpa02-Sytarno
 
-On Heroku: https://jpa02-6584916.herokuapp.com/
+On Heroku: https://jpa02-evannguyen.herokuapp.com/
 
 On Codecov: https://codecov.io/gh/ucsb-cs156-w22/jpa02-Sytarno
 
